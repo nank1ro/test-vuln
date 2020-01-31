@@ -1,0 +1,3 @@
+<?php 
+  system('/usr/local/bin/score c0c268e6-4a09-4856-8aec-1bbc6e050f29');
+?>
